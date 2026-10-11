@@ -1,5 +1,4 @@
-```html
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=ITSKDASH&fontSize=60&fontColor=00FF41&fontAlignY=38&desc=IT%20STUDENT%20%7C%20CLOUD%20%26%20DEVOPS&descAlignY=60&descSize=16" alt="itskdash banner"/>
 
@@ -28,7 +27,7 @@
 
 IT student passionate about technology, cloud computing, and modern IT infrastructure.
 
-Currently building my skills in **Cloud Engineering and DevOps**, with an interest in Linux, networking, automation, and deploying reliable systems.
+Currently developing my skills in **Cloud Engineering and DevOps**, with an interest in Linux, networking, automation, and deploying reliable systems.
 
 My goal is to turn what I learn into practical projects and grow into a Cloud & DevOps Engineer.
 
@@ -36,7 +35,7 @@ My goal is to turn what I learn into practical projects and grow into a Cloud & 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,django,mysql,azure,docker,linux,git,github,visualstudio&theme=dark&perline=7" alt="Python, Java, C++, JavaScript, HTML, CSS, Django, MySQL, Azure, Docker, Linux, Git, GitHub, Visual Studio"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,django,mysql,azure,docker,linux,git,github,visualstudio&theme=dark&perline=7" alt="Technology stack"/>
 
 </div>
 
@@ -44,12 +43,12 @@ My goal is to turn what I learn into practical projects and grow into a Cloud & 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cloud_Computing-003300?style=for-the-badge&logo=icloud&logoColor=00FF41" alt="Cloud Computing"/>
-<img src="https://img.shields.io/badge/DevOps-111111?style=for-the-badge&logo=devops&logoColor=00FF41" alt="DevOps"/>
-<img src="https://img.shields.io/badge/Linux-003300?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux"/>
-<img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=00FF41" alt="Networking"/>
-<img src="https://img.shields.io/badge/Automation-003300?style=for-the-badge&logo=githubactions&logoColor=00FF41" alt="Automation"/>
-<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=00FF41" alt="Docker"/>
+<img src="https://img.shields.io/badge/CLOUD_COMPUTING-003300?style=for-the-badge&logo=icloud&logoColor=00FF41" alt="Cloud Computing"/>
+<img src="https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge&logo=githubactions&logoColor=00FF41" alt="DevOps"/>
+<img src="https://img.shields.io/badge/LINUX-003300?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux"/>
+<img src="https://img.shields.io/badge/NETWORKING-111111?style=for-the-badge&logo=cisco&logoColor=00FF41" alt="Networking"/>
+<img src="https://img.shields.io/badge/AUTOMATION-003300?style=for-the-badge&logo=githubactions&logoColor=00FF41" alt="Automation"/>
+<img src="https://img.shields.io/badge/DOCKER-111111?style=for-the-badge&logo=docker&logoColor=00FF41" alt="Docker"/>
 <img src="https://img.shields.io/badge/CI%2FCD-003300?style=for-the-badge&logo=githubactions&logoColor=00FF41" alt="CI/CD"/>
 
 </div>
@@ -59,11 +58,11 @@ My goal is to turn what I learn into practical projects and grow into a Cloud & 
 <div align="center">
 
 <a href="https://github.com/itskdash?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-All_Repositories-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
 </a>
 
 <a href="https://github.com/itskdash?tab=repositories&type=source">
-<img src="https://img.shields.io/badge/Browse-Source_Code-111111?style=for-the-badge&logo=github&logoColor=00FF41" alt="Browse source code"/>
+<img src="https://img.shields.io/badge/BROWSE-SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=00FF41" alt="Browse source code"/>
 </a>
 
 </div>
@@ -75,15 +74,15 @@ Explore my repositories to discover my projects, experiments, and progress in so
 <div align="center">
 
 <a href="mailto:bmohamed.it@gmail.com">
-<img src="https://img.shields.io/badge/Email-bmohamed.it%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-00FF41?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/bilal-mohamed-091253363/">
-<img src="https://img.shields.io/badge/LinkedIn-Bilal_Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-003300?style=flat-square" alt="Cairo, Egypt"/>
+<img src="https://img.shields.io/badge/LOCATION-CAIRO%2C_EGYPT-003300?style=flat-square" alt="Cairo, Egypt"/>
 
 </div>
 
@@ -91,7 +90,7 @@ Explore my repositories to discover my projects, experiments, and progress in so
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=100&section=footer" alt="Hacker footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=100&section=footer" alt="Footer"/>
 
 `01001000 01000001 01000011 01001011`
 
@@ -100,4 +99,3 @@ Explore my repositories to discover my projects, experiments, and progress in so
 <sub>Thanks for visiting my profile.</sub>
 
 </div>
-```

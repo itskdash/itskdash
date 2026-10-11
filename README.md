@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:003300,100:00FF41&amp;height=200&amp;section=header&amp;text=ITSKDASH&amp;fontSize=60&amp;fontColor=00FF41&amp;fontAlignY=38&amp;desc=IT%20STUDENT%20%7C%20CLOUD%20%26%20DEVOPS&amp;descAlignY=60&amp;descSize=16" alt="itskdash banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B18,100:00FF66&height=220&section=header&text=ITSKDASH&fontSize=65&fontColor=00FF66&fontAlignY=38&desc=THINK%20%7C%20CODE%20%7C%20CREATE&descSize=17&descAlignY=60" />
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=IT+Student;Aspiring+Cloud+Engineer;Aspiring+DevOps+Engineer;Learning+Linux+and+Cloud+Infrastructure;Build.+Automate.+Deploy." alt="Animated introduction"/>

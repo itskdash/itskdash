@@ -1,35 +1,77 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:002B11,100:00FF66&height=200&section=header&text=ITSKDASH&fontSize=60&fontColor=00FF66&fontAlignY=38&desc=THINK%20%7C%20CODE%20%7C%20AUTOMATE%20%7C%20DEPLOY&descSize=16&descAlignY=62" />
+  <!-- 1. Dynamic Header Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:0284C7&height=230&section=header&text=BILAL%20MOHAMED&fontSize=58&fontColor=38BDF8&fontAlignY=35&desc=CLOUD%20INFRASTRUCTURE%20%7C%20DEVOPS%20%7C%20LINUX%20%7C%20AUTOMATION&descSize=16&descColor=E2E8F0&descAlignY=58" />
 
-<!-- Dynamic Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Bilal+Mohamed+%7C+IT+Student;Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+Docker+%7C+Azure+%7C+CI%2FCD;Building+Reliable+%26+Automated+Infrastructure" alt="Typing SVG"/>
+  <!-- 2. Profile Views, Status & Live Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=itskdash&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/BASED_IN-CAIRO%2C_EGYPT-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Location" />
+  </p>
 
-<br/>
+  <!-- 3. Multi-Line Animated Terminal Ticker -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=780&lines=root%40itskdash%3A~%23+whoami+--full;Bilal+Mohamed+%7C+IT+Undergraduate+%26+Cloud+Builder;Architecting+Scalable+Infrastructure+on+Microsoft+Azure;Containerizing+Microservices+with+Docker+%26+Linux;Automating+End-to-End+Pipelines+via+CI%2FCD+%26+GitHub+Actions;Turn+Ideas+into+Production-Ready+Systems." alt="Terminal Typing"/>
 
-<!-- Social & Contact Badges (Consolidated & Clean) -->
-<a href="https://www.linkedin.com/in/bilal-mohamed-091253363/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bilal_Mohamed-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
-</a>
-<a href="mailto:bmohamed.it@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bmohamed.it@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
-</a>
-<img src="https://img.shields.io/badge/Location-Cairo%2C_Egypt-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41" alt="Location"/>
+  <br/>
+
+  <!-- 4. Social & Direct Contact Dock -->
+  <a href="https://www.linkedin.com/in/bilal-mohamed-091253363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bilal_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bmohamed.it@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bmohamed.it@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/itskdash?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_All_Repos-181717?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/itskdash?tab=followers">
+    <img src="https://img.shields.io/github/followers/itskdash?label=Followers&style=for-the-badge&color=0F172A&logo=github&logoColor=2DD4BF" alt="Followers"/>
+  </a>
 
 </div>
 
 ---
 
-### ```~$ whoami```
+## 👨‍💻 System Profile & Engineering Manifesto
 
-```yaml
-name: Bilal Mohamed (itskdash)
-role: IT Student | Aspiring Cloud & DevOps Engineer
-location: Cairo, Egypt
-focus:
-  - Cloud Infrastructure & Architecture (Azure)
-  - Containerization & Orchestration (Docker)
-  - Linux System Administration & Networking
-  - CI/CD Pipelines & Workflow Automation
-mission: "Turning theoretical knowledge into scalable, automated, and reliable systems."
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🚀 About Me</h3>
+      <p>
+        I am an <b>IT Student</b> deeply focused on <b>Cloud Computing, DevOps Engineering, and Modern Infrastructure</b>. Instead of just writing code, I care about how software is <b>built, tested, containerized, deployed, monitored, and scaled</b> in real-world production environments.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently Building:</b> Automated cloud deployment labs & containerized web architectures.</li>
+        <li>🌱 <b>Currently Mastering:</b> Microsoft Azure Cloud Services, Docker Compose, Linux Hardening & CI/CD Workflows.</li>
+        <li>⚡ <b>Core Philosophy:</b> <i>"If you have to do it manually more than twice, automate it."</i></li>
+        <li>🤝 <b>Open For:</b> DevOps / Cloud Internships, Open-Source Infrastructure Projects & Technical Collaborations.</li>
+        <li>📫 <b>Direct Reach:</b> <code>bmohamed.it@gmail.com</code></li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>📄 infrastructure.tf</h3>
+
+```hcl
+terraform {
+  required_providers {
+    cloud = { source = "hashicorp/azure" }
+  }
+}
+
+resource "cloud_engineer" "bilal" {
+  username    = "itskdash"
+  role        = "Cloud & DevOps Engineer"
+  location    = "Cairo, EG"
+  os_preference = "Linux (Ubuntu / Debian)"
+
+  skills = {
+    cloud      = ["Azure", "Networking", "VMs"]
+    containers = ["Docker", "Linux Containers"]
+    automation = ["GitHub Actions", "Bash", "Python"]
+    backend    = ["Django", "C++", "Java", "MySQL"]
+  }
+
+  status = "Ready to Deploy 🚀"
+}

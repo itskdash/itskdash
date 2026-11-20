@@ -1,102 +1,193 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B18,100:00FF66&height=220&section=header&text=ITSKDASH&fontSize=65&fontColor=00FF66&fontAlignY=38&desc=THINK%20%7C%20CODE%20%7C%20CREATE&descSize=17&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B16,100:00FF41&height=230&section=header&text=BILAL%20MOHAMED&fontSize=48&fontColor=00FF41&fontAlignY=38&desc=IT%20STUDENT%20%7C%20CLOUD%20%26%20DEVOPS&descSize=18&descAlignY=60&animation=fadeIn" />
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=IT+Student;Aspiring+Cloud+Engineer;Aspiring+DevOps+Engineer;Learning+Linux+and+Cloud+Infrastructure;Build.+Automate.+Deploy." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Building+my+path+into+Cloud+%26+DevOps;Linux+%7C+Networking+%7C+Automation;Learning+by+building+real+projects;Code.+Deploy.+Automate.+Repeat." />
 
 <br/>
 
 <a href="https://github.com/itskdash">
-<img src="https://img.shields.io/badge/GitHub-itskdash-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-</a>
-<a href="https://github.com/itskdash?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-111111?style=for-the-badge&logo=github&logoColor=00FF41" alt="Projects"/>
-</a>
-<a href="mailto:bmohamed.it@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-003300?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 <a href="https://www.linkedin.com/in/bilal-mohamed-091253363/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
-
-</div>
-
----
-
-## `> whoami`
-
-IT student passionate about technology, cloud computing, and modern IT infrastructure.
-
-Currently developing my skills in **Cloud Engineering and DevOps**, with an interest in Linux, networking, automation, and deploying reliable systems.
-
-My goal is to turn what I learn into practical projects and grow into a Cloud & DevOps Engineer.
-
-## `> tech_stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,django,mysql,azure,docker,linux,git,github,visualstudio&theme=dark&perline=7" alt="Technology stack"/>
-
-</div>
-
-## `> areas_of_interest`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CLOUD_COMPUTING-003300?style=for-the-badge&logo=icloud&logoColor=00FF41" alt="Cloud Computing"/>
-<img src="https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge&logo=githubactions&logoColor=00FF41" alt="DevOps"/>
-<img src="https://img.shields.io/badge/LINUX-003300?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux"/>
-<img src="https://img.shields.io/badge/NETWORKING-111111?style=for-the-badge&logo=cisco&logoColor=00FF41" alt="Networking"/>
-<img src="https://img.shields.io/badge/AUTOMATION-003300?style=for-the-badge&logo=githubactions&logoColor=00FF41" alt="Automation"/>
-<img src="https://img.shields.io/badge/DOCKER-111111?style=for-the-badge&logo=docker&logoColor=00FF41" alt="Docker"/>
-<img src="https://img.shields.io/badge/CI%2FCD-003300?style=for-the-badge&logo=githubactions&logoColor=00FF41" alt="CI/CD"/>
-
-</div>
-
-## `> featured_projects`
-
-<div align="center">
-
-<a href="https://github.com/itskdash?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Explore repositories"/>
-</a>
-
-<a href="https://github.com/itskdash?tab=repositories&type=source">
-<img src="https://img.shields.io/badge/BROWSE-SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=00FF41" alt="Browse source code"/>
-</a>
-
-</div>
-
-Explore my repositories to discover my projects, experiments, and progress in software development and IT.
-
-## `> connect_with_me`
-
-<div align="center">
-
 <a href="mailto:bmohamed.it@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-00FF41?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/bilal-mohamed-091253363/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LOCATION-CAIRO%2C_EGYPT-003300?style=flat-square" alt="Cairo, Egypt"/>
+<img src="https://komarev.com/ghpvc/?username=itskdash&style=flat-square&color=00FF41&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
+<h3 align="left"><code>root@bilal:~$ whoami</code></h3>
+
+```yaml
+name: Bilal Mohamed
+role: IT Student
+aspiring:
+  - Cloud Engineer
+  - DevOps Engineer
+
+currently_learning:
+  - Linux
+  - Networking
+  - Cloud Computing
+  - Docker
+  - CI/CD
+
+interests:
+  - Infrastructure
+  - Automation
+  - System Administration
+  - Deployment
+
+mindset: "Learn. Build. Break. Fix. Repeat."
+```
+
+I'm an IT student exploring the world of **Cloud Computing, DevOps, and IT Infrastructure**.
+
+I enjoy understanding how systems work behind the scenes, experimenting with new technologies, and turning theoretical knowledge into practical projects.
+
+My goal is to build reliable, scalable infrastructure and continuously grow as an engineer.
+
+---
+
+<h3 align="left"><code>root@bilal:~$ tech_stack</code></h3>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=100&section=footer" alt="Footer"/>
+### Languages
 
-`01001000 01000001 01000011 01001011`
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" />
 
-**Build something awesome.**
+### Web Development
 
-<sub>Thanks for visiting my profile.</sub>
+<img src="https://skillicons.dev/icons?i=html,css,django&theme=dark" />
+
+### Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=linux,docker,azure,git,github,mysql&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" />
+
+</div>
+
+---
+
+<h3 align="left"><code>root@bilal:~$ current_focus</code></h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ☁️ Cloud Computing
+
+Exploring cloud infrastructure, services, and deployment.
+
+</td>
+<td width="50%" align="center">
+
+### ⚙️ DevOps
+
+Learning automation, workflows, and CI/CD.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🐧 Linux
+
+Building command-line skills and understanding systems.
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 Networking
+
+Learning protocols, connectivity, and network fundamentals.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h3 align="left"><code>root@bilal:~$ projects</code></h3>
+
+<div align="center">
+
+<a href="https://github.com/itskdash?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+I believe the best way to learn technology is by building.
+
+My repositories contain programming projects, experiments, assignments, and practical implementations as I continue developing my technical skills.
+
+> Every project is another step toward mastering the infrastructure behind modern applications.
+
+---
+
+<h3 align="left"><code>root@bilal:~$ github_stats</code></h3>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itskdash&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskdash&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itskdash&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<h3 align="left"><code>root@bilal:~$ connect</code></h3>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bilal-mohamed-091253363/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:bmohamed.it@gmail.com">
+<img src="https://img.shields.io/badge/SEND_AN_EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LOCATION-Cairo%2C%20Egypt-111111?style=flat-square&logo=googlemaps&logoColor=00FF41" />
+
+<br/><br/>
+
+```bash
+while true; do
+    learn
+    build
+    automate
+    deploy
+done
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:000000&height=120&section=footer"/>
+
+<sub>Building my future, one commit at a time.</sub>
 
 </div>
